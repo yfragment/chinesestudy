@@ -11,11 +11,15 @@ Modules used:
 
 Install [Python](https://www.python.org/).
 
-Open a terminal or command prompt and run
+Download this repository.
+
+Open a terminal or command prompt and cd into the repository folder.
+
+To install dependencies, run
 ```
 pip install -r requirements.txt
 ```
-Then run
+To start the program, run
 ```
 python study.py
 ```
