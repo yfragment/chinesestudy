@@ -11,9 +11,9 @@ Modules used:
 
 Install [Python](https://www.python.org/).
 
-Download this repository
+Download this repository.
 
-Open a terminal or command prompt and cd into the repository folder
+Open a terminal or command prompt and cd into the repository folder.
 
 To install dependencies, run
 ```
