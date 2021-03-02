@@ -1,0 +1,1423 @@
+{
+    "units": {
+        "8上": [
+            [
+                {
+                    "char": "烛",
+                    "pinyin": "zhú",
+                    "definition": [
+                        "candle",
+                        "(literary) to illuminate"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "蜡",
+                    "pinyin": "là",
+                    "definition": [
+                        "candle",
+                        "wax"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "醋",
+                    "pinyin": "cù",
+                    "definition": [
+                        "vinegar",
+                        "jealousy (in love rivalry)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "逛",
+                    "pinyin": "guàng",
+                    "definition": [
+                        "to stroll",
+                        "to visit"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "掺",
+                    "pinyin": "xiān",
+                    "definition": [
+                        "to grasp"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "矩",
+                    "pinyin": "jǔ",
+                    "definition": [
+                        "carpenter's square",
+                        "rule",
+                        "regulation",
+                        "pattern",
+                        "to carve"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "噼",
+                    "pinyin": "pī",
+                    "definition": [
+                        "child's buttocks (esp. Cantonese)",
+                        "see 噼啪|劈啪, (onom.) for crack, slap, clap, clatter etc"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "炮",
+                    "pinyin": "pào",
+                    "definition": [
+                        "variant of 炮[pao4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "燃",
+                    "pinyin": "rán",
+                    "definition": [
+                        "to burn",
+                        "to ignite",
+                        "to light",
+                        "fig. to spark off (hopes)",
+                        "to start (debate)",
+                        "to raise (hopes)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "宵",
+                    "pinyin": "xiāo",
+                    "definition": [
+                        "night"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "潮",
+                    "pinyin": "cháo",
+                    "definition": [
+                        "tide",
+                        "current",
+                        "damp",
+                        "moist",
+                        "humid"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "纱",
+                    "pinyin": "shā",
+                    "definition": [
+                        "cotton yarn",
+                        "muslin"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "更",
+                    "pinyin": "gèng",
+                    "definition": [
+                        "more",
+                        "even more",
+                        "further",
+                        "still",
+                        "still more"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "携",
+                    "pinyin": "xié",
+                    "definition": [
+                        "to carry",
+                        "to take along",
+                        "to bring along",
+                        "to hold (hands)",
+                        "also pr. [xi1]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "幼",
+                    "pinyin": "yòu",
+                    "definition": [
+                        "young"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "怨",
+                    "pinyin": "yuàn",
+                    "definition": [
+                        "to blame",
+                        "to complain"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "触",
+                    "pinyin": "hóng",
+                    "definition": [
+                        "to touch",
+                        "to make contact with sth",
+                        "to stir up sb's emotions"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "祭",
+                    "pinyin": "jì",
+                    "definition": [
+                        "to offer sacrifice",
+                        "festive occasion"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "遗",
+                    "pinyin": "yí",
+                    "definition": [
+                        "to lose",
+                        "to leave behind",
+                        "to omit",
+                        "to bequeath",
+                        "sth lost",
+                        "involuntary discharge (of urine etc)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "鬼",
+                    "pinyin": "gǔi",
+                    "definition": [
+                        "ghost",
+                        "demon",
+                        "terrible",
+                        "damnable",
+                        "clever",
+                        "sly",
+                        "crafty",
+                        "sinister plot",
+                        "(suffix for sb with a certain vice or addiction etc)",
+                        "one of the 28 constellations"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "尘",
+                    "pinyin": "chén",
+                    "definition": [
+                        "dust",
+                        "dirt",
+                        "earth"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "驱",
+                    "pinyin": "qū",
+                    "definition": [
+                        "to expel",
+                        "to urge on",
+                        "to drive",
+                        "to run quickly"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "录",
+                    "pinyin": "lù",
+                    "definition": [
+                        "diary",
+                        "record",
+                        "to hit",
+                        "to copy"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "屁",
+                    "pinyin": "pì",
+                    "definition": [
+                        "fart",
+                        "flatulence",
+                        "nonsense",
+                        "(usu. in the negative) what",
+                        "(not) a damn thing"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "袍",
+                    "pinyin": "páo",
+                    "definition": [
+                        "gown (lined)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "锣",
+                    "pinyin": "luó",
+                    "definition": [
+                        "gong",
+                        "CL:面[mian4]"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "缓",
+                    "pinyin": "huǎn",
+                    "definition": [
+                        "slow",
+                        "unhurried",
+                        "sluggish",
+                        "gradual",
+                        "not tense",
+                        "relaxed",
+                        "to postpone",
+                        "to defer",
+                        "to stall",
+                        "to stave off",
+                        "to revive",
+                        "to recuperate"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "卧",
+                    "pinyin": "wò",
+                    "definition": [
+                        "to lie",
+                        "to crouch"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "弃",
+                    "pinyin": "qì",
+                    "definition": [
+                        "to abandon",
+                        "to relinquish",
+                        "to discard",
+                        "to throw away"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "施",
+                    "pinyin": "shī",
+                    "definition": [
+                        "to grant",
+                        "to give",
+                        "to bestow",
+                        "to act",
+                        "to carry out"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "巢",
+                    "pinyin": "cháo",
+                    "definition": [
+                        "nest"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "售",
+                    "pinyin": "shòu",
+                    "definition": [
+                        "to sell",
+                        "to make or carry out (a plan or intrigue etc)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "税",
+                    "pinyin": "shùi",
+                    "definition": [
+                        "taxes",
+                        "duties"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "灿",
+                    "pinyin": "càn",
+                    "definition": [
+                        "glorious",
+                        "bright",
+                        "brilliant",
+                        "lustrous",
+                        "resplendent"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "霞",
+                    "pinyin": "xiá",
+                    "definition": [
+                        "red clouds"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "供",
+                    "pinyin": "gōng",
+                    "definition": [
+                        "sacrificial offering",
+                        "to confess"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "榕",
+                    "pinyin": "róng",
+                    "definition": [
+                        "banyan tree",
+                        "Ficus wightiana"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "涨",
+                    "pinyin": "zhǎng",
+                    "definition": [
+                        "to swell",
+                        "to distend"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "会",
+                    "pinyin": "hùi",
+                    "definition": [
+                        "to balance an account",
+                        "accountancy",
+                        "accounting"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "佩",
+                    "pinyin": "pèi",
+                    "definition": [
+                        "girdle ornaments"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "伏",
+                    "pinyin": "fú",
+                    "definition": [
+                        "to lean over",
+                        "to fall (go down)",
+                        "to hide (in ambush)",
+                        "to conceal oneself",
+                        "to lie low",
+                        "hottest days of summer",
+                        "to submit",
+                        "to concede defeat",
+                        "to overcome",
+                        "to subdue",
+                        "volt"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "昼",
+                    "pinyin": "zhòu",
+                    "definition": [
+                        "daytime"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "裹",
+                    "pinyin": "guǒ",
+                    "definition": [
+                        "to bind",
+                        "to wrap",
+                        "a bundle",
+                        "a parcel"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "唯",
+                    "pinyin": "wéi",
+                    "definition": [
+                        "yes"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "偿",
+                    "pinyin": "cháng",
+                    "definition": [
+                        "to repay",
+                        "to compensate for",
+                        "to recompense",
+                        "to fulfill (hopes etc)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "荒",
+                    "pinyin": "huāng",
+                    "definition": [
+                        "desolate",
+                        "shortage",
+                        "scarce",
+                        "out of practice",
+                        "absurd",
+                        "uncultivated",
+                        "to neglect"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "陷",
+                    "pinyin": "xiàn",
+                    "definition": [
+                        "pitfall",
+                        "trap",
+                        "to get stuck",
+                        "to sink",
+                        "to cave in",
+                        "to frame (false charge)",
+                        "to capture (a city in battle)",
+                        "to fall (to the enemy)",
+                        "defect"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "惧",
+                    "pinyin": "jù",
+                    "definition": [
+                        "to fear"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "咔",
+                    "pinyin": "kǎ",
+                    "definition": [
+                        "(used as phonetic \"ka\")"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "熄",
+                    "pinyin": "xí",
+                    "definition": [
+                        "to extinguish",
+                        "to put out (fire)",
+                        "to quench",
+                        "to stop burning",
+                        "to go out (of fire, lamp etc)",
+                        "to come to an end",
+                        "to wither away",
+                        "to die out",
+                        "Taiwan pr. [xi2]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "源",
+                    "pinyin": "yuán",
+                    "definition": [
+                        "root",
+                        "source",
+                        "origin"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "奏",
+                    "pinyin": "zòu",
+                    "definition": [
+                        "to play music",
+                        "to achieve",
+                        "to present a memorial to the emperor (old)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "禽",
+                    "pinyin": "qín",
+                    "definition": [
+                        "generic term for birds and animals",
+                        "birds",
+                        "to capture (old)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "畜",
+                    "pinyin": "chù",
+                    "definition": [
+                        "to raise (animals)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "荤",
+                    "pinyin": "hūn",
+                    "definition": [
+                        "strong-smelling vegetable (garlic etc)",
+                        "non-vegetarian food (meat, fish etc)",
+                        "vulgar",
+                        "obscene"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "妆",
+                    "pinyin": "zhuāng",
+                    "definition": [
+                        "variant of 妝|妆[zhuang1]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "衬",
+                    "pinyin": "chèn",
+                    "definition": [
+                        "(of garments) against the skin",
+                        "to line",
+                        "lining",
+                        "to contrast with",
+                        "to assist financially"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "暇",
+                    "pinyin": "xiá",
+                    "definition": [
+                        "leisure"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "征",
+                    "pinyin": "zhēng",
+                    "definition": [
+                        "to invite",
+                        "to recruit",
+                        "to levy (taxes)",
+                        "to draft (troops)",
+                        "phenomenon",
+                        "symptom",
+                        "characteristic sign (used as proof)",
+                        "evidence"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "绣",
+                    "pinyin": "xìu",
+                    "definition": [
+                        "to embroider",
+                        "embroidery"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "牲",
+                    "pinyin": "shēng",
+                    "definition": [
+                        "domestic animal",
+                        "sacrificial animal"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "谋",
+                    "pinyin": "móu",
+                    "definition": [
+                        "to plan",
+                        "to seek",
+                        "scheme"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "杆",
+                    "pinyin": "gān",
+                    "definition": [
+                        "stick",
+                        "pole",
+                        "lever",
+                        "classifier for long objects such as guns"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "供",
+                    "pinyin": "gōng",
+                    "definition": [
+                        "sacrificial offering",
+                        "to confess"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "隐",
+                    "pinyin": "yǐn",
+                    "definition": [
+                        "to lean upon"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "裕",
+                    "pinyin": "yù",
+                    "definition": [
+                        "abundant"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "捐",
+                    "pinyin": "juān",
+                    "definition": [
+                        "to contribute",
+                        "to donate",
+                        "contribution",
+                        "tax",
+                        "to abandon"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "赠",
+                    "pinyin": "zèng",
+                    "definition": [
+                        "to give as a present",
+                        "to repel",
+                        "to bestow an honorary title after death (old)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "茄",
+                    "pinyin": "qié",
+                    "definition": [
+                        "eggplant"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "葬",
+                    "pinyin": "zàng",
+                    "definition": [
+                        "to bury (the dead)",
+                        "to inter"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "迁",
+                    "pinyin": "qiān",
+                    "definition": [
+                        "to move",
+                        "to shift",
+                        "to change (a position or location etc)",
+                        "to promote"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "坟",
+                    "pinyin": "fén",
+                    "definition": [
+                        "grave",
+                        "tomb",
+                        "CL:座[zuo4]",
+                        "embankment",
+                        "mound",
+                        "ancient book"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "墓",
+                    "pinyin": "mù",
+                    "definition": [
+                        "grave",
+                        "tomb",
+                        "mausoleum"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "贩",
+                    "pinyin": "fàn",
+                    "definition": [
+                        "to deal in",
+                        "to buy and sell",
+                        "to trade in",
+                        "to retail",
+                        "to peddle"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "攒",
+                    "pinyin": "zǎn",
+                    "definition": [
+                        "to collect",
+                        "to hoard",
+                        "to accumulate",
+                        "to save"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "测",
+                    "pinyin": "cè",
+                    "definition": [
+                        "to survey",
+                        "to measure",
+                        "to conjecture"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "丧",
+                    "pinyin": "sāng",
+                    "definition": [
+                        "to lose sth abstract but important (courage, authority, one's life etc)",
+                        "to be bereaved of (one's spouse etc)",
+                        "to die",
+                        "disappointed",
+                        "discouraged"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "脊",
+                    "pinyin": "jí",
+                    "definition": [
+                        "spine",
+                        "back",
+                        "ridge",
+                        "Taiwan pr. [ji2] or [ji3]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "援",
+                    "pinyin": "yuán",
+                    "definition": [
+                        "to help",
+                        "to assist",
+                        "to aid"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "旋",
+                    "pinyin": "xuán",
+                    "definition": [
+                        "to whirl",
+                        "immediately",
+                        "variant of 鏇|镟[xuan4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "秦",
+                    "pinyin": "qín",
+                    "definition": [
+                        "surname Qin",
+                        "Qin dynasty (221-207 BC) of the first emperor 秦始皇[Qin2 Shi3 huang2]",
+                        "abbr. for 陝西|陕西[Shan3 xi1]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "贼",
+                    "pinyin": "zéi",
+                    "definition": [
+                        "thief",
+                        "traitor",
+                        "wily",
+                        "deceitful",
+                        "evil",
+                        "extremely"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "窃",
+                    "pinyin": "qiè",
+                    "definition": [
+                        "to steal",
+                        "secretly",
+                        "(humble) I"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "鼾",
+                    "pinyin": "hān",
+                    "definition": [
+                        "snore",
+                        "to snore"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "煤",
+                    "pinyin": "méi",
+                    "definition": [
+                        "coal",
+                        "CL:塊|块[kuai4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "褐",
+                    "pinyin": "hé",
+                    "definition": [
+                        "brown",
+                        "gray or dark color",
+                        "coarse hemp cloth",
+                        "Taiwan pr. [he2]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "鲸",
+                    "pinyin": "jīng",
+                    "definition": [
+                        "whale"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "肌",
+                    "pinyin": "jī",
+                    "definition": [
+                        "flesh",
+                        "muscle"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "胞",
+                    "pinyin": "bāo",
+                    "definition": [
+                        "placenta",
+                        "womb",
+                        "born of the same parents"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "召",
+                    "pinyin": "zhào",
+                    "definition": [
+                        "to call together",
+                        "to summon",
+                        "to convene",
+                        "temple or monastery (used in place names in Inner Mongolia)"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "询",
+                    "pinyin": "xún",
+                    "definition": [
+                        "to ask about",
+                        "to inquire about"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "译",
+                    "pinyin": "yì",
+                    "definition": [
+                        "to translate",
+                        "to interpret"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "捏",
+                    "pinyin": "niē",
+                    "definition": [
+                        "variant of 捏[nie1]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "慈",
+                    "pinyin": "cí",
+                    "definition": [
+                        "compassionate",
+                        "gentle",
+                        "merciful",
+                        "kind",
+                        "humane"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "奈",
+                    "pinyin": "nài",
+                    "definition": [
+                        "how can one help"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "损",
+                    "pinyin": "sǔn",
+                    "definition": [
+                        "to decrease",
+                        "to lose",
+                        "to damage",
+                        "to harm",
+                        "(coll.) to speak sarcastically",
+                        "to deride",
+                        "caustic",
+                        "mean",
+                        "one of the 64 trigrams of the Book of Changes (old)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "润",
+                    "pinyin": "rùn",
+                    "definition": [
+                        "to moisten",
+                        "to lubricate",
+                        "to embellish",
+                        "moist",
+                        "glossy",
+                        "sleek"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "货",
+                    "pinyin": "huò",
+                    "definition": [
+                        "goods",
+                        "money",
+                        "commodity",
+                        "CL:個|个[ge4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "凑",
+                    "pinyin": "còu",
+                    "definition": [
+                        "to gather together, pool or collect",
+                        "to happen by chance",
+                        "to move close to",
+                        "to exploit an opportunity"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "眶",
+                    "pinyin": "kuàng",
+                    "definition": [
+                        "eye socket"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "吻",
+                    "pinyin": "wěn",
+                    "definition": [
+                        "variant of 吻[wen3]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "董",
+                    "pinyin": "dǒng",
+                    "definition": [
+                        "to supervise",
+                        "to direct",
+                        "director"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "邦",
+                    "pinyin": "bāng",
+                    "definition": [
+                        "country",
+                        "nation",
+                        "state"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "蓄",
+                    "pinyin": "xù",
+                    "definition": [
+                        "to store up",
+                        "to grow (e.g. a beard)",
+                        "to entertain (ideas)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "涉",
+                    "pinyin": "shè",
+                    "definition": [
+                        "to wade",
+                        "to be involved",
+                        "to concern",
+                        "to experience",
+                        "to enter (classical)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "削",
+                    "pinyin": "xuē",
+                    "definition": [
+                        "to pare",
+                        "to reduce",
+                        "to remove",
+                        "Taiwan pr. [xue4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "皂",
+                    "pinyin": "zào",
+                    "definition": [
+                        "soap",
+                        "black"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "唬",
+                    "pinyin": "hǔ",
+                    "definition": [
+                        "a tiger's roar",
+                        "to scare"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "浴",
+                    "pinyin": "yù",
+                    "definition": [
+                        "bath",
+                        "to bathe"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "咳",
+                    "pinyin": "ké",
+                    "definition": [
+                        "cough"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "嗽",
+                    "pinyin": "sòu",
+                    "definition": [
+                        "cough"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "摊",
+                    "pinyin": "tān",
+                    "definition": [
+                        "to spread out",
+                        "vendor's stand"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "贯",
+                    "pinyin": "guàn",
+                    "definition": [
+                        "to pierce through",
+                        "to pass through",
+                        "to be stringed together",
+                        "string of 1000 cash"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "捂",
+                    "pinyin": "wǔ",
+                    "definition": [
+                        "to enclose",
+                        "to cover with the hand (one's eyes, nose or ears)",
+                        "to cover up (an affair)",
+                        "contrary",
+                        "to contradict"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "俯",
+                    "pinyin": "fǔ",
+                    "definition": [
+                        "variant of 俯[fu3]"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "衡",
+                    "pinyin": "héng",
+                    "definition": [
+                        "to weigh",
+                        "weight",
+                        "measure"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "谨",
+                    "pinyin": "jǐn",
+                    "definition": [
+                        "cautious",
+                        "careful",
+                        "solemnly",
+                        "sincerely (formal)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "慎",
+                    "pinyin": "shèn",
+                    "definition": [
+                        "old variant of 慎[shen4]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "益",
+                    "pinyin": "yì",
+                    "definition": [
+                        "benefit",
+                        "profit",
+                        "advantage",
+                        "beneficial",
+                        "to increase",
+                        "to add",
+                        "all the more"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "拆",
+                    "pinyin": "chāi",
+                    "definition": [
+                        "to tear open",
+                        "to tear down",
+                        "to tear apart",
+                        "to open"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "判",
+                    "pinyin": "pàn",
+                    "definition": [
+                        "to judge",
+                        "to sentence",
+                        "to discriminate",
+                        "to discern",
+                        "obviously (different)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "版",
+                    "pinyin": "bǎn",
+                    "definition": [
+                        "a register",
+                        "block of printing",
+                        "edition",
+                        "version",
+                        "page"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "谊",
+                    "pinyin": "yí",
+                    "definition": [
+                        "friendship",
+                        "also pr. [yi2]"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "腼",
+                    "pinyin": "miǎn",
+                    "definition": [
+                        "bashful"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "腆",
+                    "pinyin": "tiǎn",
+                    "definition": [
+                        "make strong (as liquors)",
+                        "virtuous"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "纺",
+                    "pinyin": "fǎng",
+                    "definition": [
+                        "to spin (cotton or hemp etc)",
+                        "fine woven silk fabric"
+                    ],
+                    "words": []
+                }
+            ],
+            [
+                {
+                    "char": "黎",
+                    "pinyin": "lí",
+                    "definition": [
+                        "black"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "哀",
+                    "pinyin": "āi",
+                    "definition": [
+                        "sorrow",
+                        "grief",
+                        "pity",
+                        "to grieve for",
+                        "to pity",
+                        "to lament",
+                        "to condole"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "矛",
+                    "pinyin": "máo",
+                    "definition": [
+                        "spear",
+                        "lance",
+                        "pike"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "盾",
+                    "pinyin": "dùn",
+                    "definition": [
+                        "shield",
+                        "(currency) Vietnamese dong",
+                        "currency unit of several countries (Indonesian rupiah, Dutch gulden etc)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "衷",
+                    "pinyin": "zhōng",
+                    "definition": [
+                        "inner feelings"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "浩",
+                    "pinyin": "hào",
+                    "definition": [
+                        "grand",
+                        "vast (water)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "躁",
+                    "pinyin": "zào",
+                    "definition": [
+                        "hot-tempered",
+                        "impatient"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "罢",
+                    "pinyin": "bà",
+                    "definition": [
+                        "(final particle, same as 吧)"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "辰",
+                    "pinyin": "chén",
+                    "definition": [
+                        "5th earthly branch: 7-9 a.m., 3rd solar month (5th April-4th May), year of the Dragon",
+                        "ancient Chinese compass point: 120°"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "痣",
+                    "pinyin": "zhì",
+                    "definition": [
+                        "birthmark",
+                        "mole"
+                    ],
+                    "words": []
+                },
+                {
+                    "char": "肤",
+                    "pinyin": "fū",
+                    "definition": [
+                        "skin"
+                    ],
+                    "words": []
+                }
+            ]
+        ]
+    }
+}
