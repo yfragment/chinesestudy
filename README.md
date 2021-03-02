@@ -12,7 +12,10 @@ Modules used:
 Install [Python](https://www.python.org/).
 
 Open a terminal or command prompt and run
-`pip install -r requirements.txt`
-
+```
+pip install -r requirements.txt
+```
 Then run
-`python study.py`
+```
+python study.py
+```
