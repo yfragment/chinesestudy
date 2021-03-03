@@ -7,7 +7,13 @@ Modules used:
 - [Rich](https://github.com/willmcgugan/rich) to make things look nice
 - [Pinyin](https://github.com/lxyu/pinyin) for pinyin and definitions
 
-# Installation
+# Usage & Installation
+
+### Repl.it
+
+Go to https://repl.it/@FatBanana/chinesestudy and click Run.
+
+### Running locally
 
 Install [Python](https://www.python.org/).
 
