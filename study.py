@@ -2,6 +2,7 @@ import pinyin
 import pinyin.cedict
 import json
 import random
+import rich
 from rich.console import Console
 from rich import pretty
 from rich.prompt import Prompt
