@@ -255,7 +255,10 @@
                     "fisherman",
                     "to fish"
                 ],
-                "words": []
+                "words": [
+                    "打渔",
+                    "渔夫"
+                ]
             },
             "纲": {
                 "char": "纲",
@@ -271,7 +274,10 @@
                     "outline",
                     "program"
                 ],
-                "words": []
+                "words": [
+                    "提纲",
+                    "大纲"
+                ]
             },
             "搏": {
                 "char": "搏",
@@ -285,12 +291,17 @@
                     "to seize",
                     "(of heart) to beat"
                 ],
-                "words": []
+                "words": [
+                    "拼搏",
+                    "搏斗"
+                ]
             },
             "累": {
                 "char": "累",
                 "week": 2,
                 "pinyin": [
+                    "léi",
+                    "lěi",
                     "lèi"
                 ],
                 "definitions": [
@@ -298,7 +309,11 @@
                     "to bind together",
                     "to twist around"
                 ],
-                "words": []
+                "words": [
+                    "劳累",
+                    "积累",
+                    "累赘"
+                ]
             },
             "鹊": {
                 "char": "鹊",
@@ -309,7 +324,9 @@
                 "definitions": [
                     "magpie"
                 ],
-                "words": []
+                "words": [
+                    "喜鹊"
+                ]
             },
             "敷": {
                 "char": "敷",
@@ -324,7 +341,10 @@
                     "sufficient (to cover)",
                     "enough"
                 ],
-                "words": []
+                "words": [
+                    "热敷",
+                    "敷药‘"
+                ]
             },
             "熏": {
                 "char": "熏",
@@ -340,7 +360,10 @@
                     "to smoke",
                     "to fumigate"
                 ],
-                "words": []
+                "words": [
+                    "烟熏",
+                    "熏肉"
+                ]
             },
             "穴": {
                 "char": "穴",
@@ -355,7 +378,10 @@
                     "acupuncture point",
                     "Taiwan pr. [xue4]"
                 ],
-                "words": []
+                "words": [
+                    "洞穴",
+                    "穴位"
+                ]
             },
             "灸": {
                 "char": "灸",
@@ -366,7 +392,9 @@
                 "definitions": [
                     "moxibustion (TCM)"
                 ],
-                "words": []
+                "words": [
+                    "针灸"
+                ]
             },
             "艾": {
                 "char": "艾",
@@ -380,7 +408,10 @@
                     "to reap",
                     "to redress"
                 ],
-                "words": []
+                "words": [
+                    "艾草",
+                    "艾滋病"
+                ]
             },
             "腹": {
                 "char": "腹",
@@ -393,7 +424,10 @@
                     "stomach",
                     "belly"
                 ],
-                "words": []
+                "words": [
+                    "腹部",
+                    "腹泻"
+                ]
             },
             "髓": {
                 "char": "髓",
@@ -407,7 +441,10 @@
                     "quintessence",
                     "pith (soft interior of plant stem)"
                 ],
-                "words": []
+                "words": [
+                    "骨髓",
+                    "精髓"
+                ]
             },
             "嘛": {
                 "char": "嘛",
@@ -419,18 +456,25 @@
                     "modal particle indicating that sth is obvious",
                     "particle indicating a pause for emphasis"
                 ],
-                "words": []
+                "words": [
+                    "好嘛",
+                    "干嘛"
+                ]
             },
             "大": {
                 "char": "大",
                 "week": 3,
                 "pinyin": [
-                    "dà"
+                    "dà",
+                    "dài"
                 ],
                 "definitions": [
                     "see 大夫[dai4 fu5]"
                 ],
-                "words": []
+                "words": [
+                    "大小",
+                    "大夫"
+                ]
             },
             "蔬": {
                 "char": "蔬",
@@ -441,7 +485,9 @@
                 "definitions": [
                     "vegetables"
                 ],
-                "words": []
+                "words": [
+                    "蔬菜"
+                ]
             },
             "协": {
                 "char": "协",
@@ -456,13 +502,16 @@
                     "to assist",
                     "to join"
                 ],
-                "words": []
+                "words": [
+                    "协作",
+                    "协定"
+                ]
             },
             "颤": {
                 "char": "颤",
                 "week": 4,
                 "pinyin": [
-                    "zhàn"
+                    "chàn"
                 ],
                 "definitions": [
                     "to tremble",
@@ -471,7 +520,10 @@
                     "to vibrate",
                     "Taiwan pr. [zhan4]"
                 ],
-                "words": []
+                "words": [
+                    "颤抖",
+                    "颤动"
+                ]
             },
             "促": {
                 "char": "促",
@@ -488,7 +540,10 @@
                     "close",
                     "intimate"
                 ],
-                "words": []
+                "words": [
+                    "急促",
+                    "促进"
+                ]
             },
             "销": {
                 "char": "销",
@@ -504,7 +559,10 @@
                     "to fasten with a bolt",
                     "bolt or pin"
                 ],
-                "words": []
+                "words": [
+                    "销售",
+                    "供销"
+                ]
             },
             "伦": {
                 "char": "伦",
@@ -517,7 +575,10 @@
                     "order",
                     "coherence"
                 ],
-                "words": []
+                "words": [
+                    "伦理",
+                    "伦敦"
+                ]
             },
             "谓": {
                 "char": "谓",
@@ -533,7 +594,10 @@
                     "meaning",
                     "sense"
                 ],
-                "words": []
+                "words": [
+                    "所谓",
+                    "称谓"
+                ]
             },
             "键": {
                 "char": "键",
@@ -547,7 +611,10 @@
                     "chemical bond",
                     "linchpin"
                 ],
-                "words": []
+                "words": [
+                    "关键",
+                    "键钮"
+                ]
             },
             "坦": {
                 "char": "坦",
@@ -561,7 +628,10 @@
                     "level",
                     "smooth"
                 ],
-                "words": []
+                "words": [
+                    "平坦",
+                    "坦克"
+                ]
             },
             "郑": {
                 "char": "郑",
@@ -574,7 +644,10 @@
                     "surname Zheng",
                     "abbr. for 鄭州|郑州[Zheng4 zhou1]"
                 ],
-                "words": []
+                "words": [
+                    "郑重",
+                    "姓郑"
+                ]
             },
             "牧": {
                 "char": "牧",
@@ -588,7 +661,10 @@
                     "to govern (old)",
                     "government official (old)"
                 ],
-                "words": []
+                "words": [
+                    "牧童",
+                    "牧场"
+                ]
             },
             "杏": {
                 "char": "杏",
@@ -600,7 +676,10 @@
                     "apricot",
                     "almond"
                 ],
-                "words": []
+                "words": [
+                    "杏子",
+                    "杏仁"
+                ]
             },
             "肴": {
                 "char": "肴",
@@ -611,7 +690,9 @@
                 "definitions": [
                     "variant of 肴[yao2]"
                 ],
-                "words": []
+                "words": [
+                    "菜肴"
+                ]
             },
             "焚": {
                 "char": "焚",
@@ -622,7 +703,10 @@
                 "definitions": [
                     "to burn"
                 ],
-                "words": []
+                "words": [
+                    "焚烧",
+                    "焚毁"
+                ]
             },
             "晕": {
                 "char": "晕",
@@ -635,7 +719,10 @@
                     "halo",
                     "ring around moon or sun"
                 ],
-                "words": []
+                "words": [
+                    "晕倒",
+                    "晕厥"
+                ]
             },
             "奉": {
                 "char": "奉",
@@ -652,7 +739,10 @@
                     "to wait upon",
                     "to accept orders (from superior)"
                 ],
-                "words": []
+                "words": [
+                    "奉献",
+                    "奉告"
+                ]
             },
             "僻": {
                 "char": "僻",
@@ -666,13 +756,17 @@
                     "rustic",
                     "secluded"
                 ],
-                "words": []
+                "words": [
+                    "偏僻",
+                    "冷僻"
+                ]
             },
             "率": {
                 "char": "率",
                 "week": 5,
                 "pinyin": [
-                    "lv̀"
+                    "lv̀",
+                    "shuài"
                 ],
                 "definitions": [
                     "to lead",
@@ -684,7 +778,10 @@
                     "generally",
                     "usually"
                 ],
-                "words": []
+                "words": [
+                    "比率",
+                    "率领"
+                ]
             },
             "社": {
                 "char": "社",
@@ -699,7 +796,10 @@
                     "agency",
                     "(old) god of the land"
                 ],
-                "words": []
+                "words": [
+                    "社会",
+                    "社区"
+                ]
             },
             "择": {
                 "char": "择",
@@ -716,19 +816,25 @@
                     "to eliminate",
                     "also pr. [zhai2]"
                 ],
-                "words": []
+                "words": [
+                    "选择",
+                    "择业"
+                ]
             },
             "拽": {
                 "char": "拽",
                 "week": 6,
                 "pinyin": [
-                    "yè"
+                    "zhuài"
                 ],
                 "definitions": [
                     "to pull",
                     "to tug at (sth)"
                 ],
-                "words": []
+                "words": [
+                    "拽住",
+                    "拽缰绳"
+                ]
             },
             "蘸": {
                 "char": "蘸",
@@ -739,7 +845,10 @@
                 "definitions": [
                     "to dip in (ink, sauce etc)"
                 ],
-                "words": []
+                "words": [
+                    "蘸墨水",
+                    "蘸酱油"
+                ]
             },
             "宗": {
                 "char": "宗",
@@ -757,7 +866,10 @@
                     "to take as one's model (in academic or artistic work)",
                     "classifier for batches, items, cases (medical or legal), reservoirs"
                 ],
-                "words": []
+                "words": [
+                    "祖宗",
+                    "正宗"
+                ]
             },
             "轴": {
                 "char": "轴",
@@ -769,7 +881,10 @@
                     "see 壓軸戲|压轴戏[ya1 zhou4 xi4]",
                     "Taiwan pr. [zhou2]"
                 ],
-                "words": []
+                "words": [
+                    "车轴",
+                    "轴心"
+                ]
             },
             "轿": {
                 "char": "轿",
@@ -782,7 +897,10 @@
                     "a palanquin",
                     "a litter"
                 ],
-                "words": []
+                "words": [
+                    "轿子",
+                    "抬轿"
+                ]
             },
             "溶": {
                 "char": "溶",
@@ -794,7 +912,10 @@
                     "to dissolve",
                     "soluble"
                 ],
-                "words": []
+                "words": [
+                    "溶化",
+                    "溶解"
+                ]
             },
             "厘": {
                 "char": "厘",
@@ -806,18 +927,25 @@
                     "one hundredth",
                     "centi-"
                 ],
-                "words": []
+                "words": [
+                    "厘米",
+                    "厘清"
+                ]
             },
             "乘": {
                 "char": "乘",
                 "week": 6,
                 "pinyin": [
-                    "chéng"
+                    "chéng",
+                    "shèng"
                 ],
                 "definitions": [
                     "old variant of 乘[cheng2]"
                 ],
-                "words": []
+                "words": [
+                    "乘坐",
+                    "一乘轿子"
+                ]
             },
             "腻": {
                 "char": "腻",
@@ -832,7 +960,10 @@
                     "intimate",
                     "tired of"
                 ],
-                "words": []
+                "words": [
+                    "细腻",
+                    "油腻"
+                ]
             },
             "笛": {
                 "char": "笛",
@@ -843,7 +974,10 @@
                 "definitions": [
                     "flute"
                 ],
-                "words": []
+                "words": [
+                    "吹笛子",
+                    "竹笛"
+                ]
             },
             "幽": {
                 "char": "幽",
@@ -861,7 +995,10 @@
                     "in superstition indicates the underworld",
                     "ancient district spanning Liaonang and Hebei provinces"
                 ],
-                "words": []
+                "words": [
+                    "幽默",
+                    "幽暗"
+                ]
             },
             "韩": {
                 "char": "韩",
@@ -875,7 +1012,10 @@
                     "Korea, esp. South Korea 大韓民國|大韩民国",
                     "surname Han"
                 ],
-                "words": []
+                "words": [
+                    "韩国",
+                    "姓韩"
+                ]
             },
             "赖": {
                 "char": "赖",
@@ -886,7 +1026,10 @@
                 "definitions": [
                     "variant of 賴|赖[lai4]"
                 ],
-                "words": []
+                "words": [
+                    "抵赖",
+                    "耍赖"
+                ]
             },
             "蔓": {
                 "char": "蔓",
@@ -898,7 +1041,10 @@
                     "creeper",
                     "to spread"
                 ],
-                "words": []
+                "words": [
+                    "枝蔓",
+                    "蔓延"
+                ]
             },
             "娇": {
                 "char": "娇",
@@ -913,7 +1059,10 @@
                     "delicate",
                     "frail"
                 ],
-                "words": []
+                "words": [
+                    "娇嫩",
+                    "娇惯"
+                ]
             },
             "障": {
                 "char": "障",
@@ -926,7 +1075,10 @@
                     "to hinder",
                     "to obstruct"
                 ],
-                "words": []
+                "words": [
+                    "障碍",
+                    "屏障"
+                ]
             },
             "扒": {
                 "char": "扒",
@@ -940,7 +1092,10 @@
                     "to braise",
                     "to crawl"
                 ],
-                "words": []
+                "words": [
+                    "扒开",
+                    "扒皮"
+                ]
             },
             "噢": {
                 "char": "噢",
@@ -951,20 +1106,25 @@
                 "definitions": [
                     "Oh!"
                 ],
-                "words": []
+                "words": [
+                    "噢，原来如此"
+                ]
             },
             "嚓": {
                 "char": "嚓",
                 "week": 7,
                 "pinyin": [
-                    "cā"
+                    "chā"
                 ],
                 "definitions": [
                     "(onom.) snap",
                     "pop",
                     "see 喀嚓[ka1 cha1]"
                 ],
-                "words": []
+                "words": [
+                    "咔嚓",
+                    "啪嚓"
+                ]
             },
             "秃": {
                 "char": "秃",
