@@ -95,7 +95,6 @@ while True:
         with open('chars.json', 'r', encoding = 'utf-8') as f:
             data = json.load(f)
         study_mode = multipleChoice("What would you like to study?", ["All", "Specific Units"])
-        console.clear()
         studying_str = "[bold]Studying all characters"
         units = []
         chars = []
@@ -107,6 +106,7 @@ while True:
             units = selectMultipleChoice("Which units do you want to study?", list(data['units']))
             studying_str = f"[bold]Studying units {', '.join(units)}"
         
+        console.clear()
         console.print("[bold]Study mode selected")
         print()
         order = multipleChoice("How would you like to study?", ["Random", "In Order"])
@@ -136,6 +136,7 @@ while True:
             if show:
                 console.print(", ".join([p for p in chars[index]['pinyin']]))
                 console.print(', '.join(chars[index]['definitions']))
+                console.print(', '.join(chars[index]['words']))
                 print()
             action = multipleChoice("What would you like to do?", ["Next", "Previous", "Edit", "Exit"] if show else ["Next", "Previous", "Show Answer", "Edit", "Exit"])
             print()
@@ -174,6 +175,7 @@ while True:
                 print()
                 console.print(", ".join([p for p in char_data['pinyin']]))
                 console.print(', '.join(char_data['definitions']))
+                console.print(', '.join(char_data['words']))
                 print()
             else:
                 console.print("[bold]Search mode selected")
