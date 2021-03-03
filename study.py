@@ -140,9 +140,8 @@ while True:
                 console.print(', '.join(chars[index]['words']))
                 print()
             action = multipleChoice("What would you like to do?", ["Next", "Previous", "Edit", "Exit"] if show else ["Next", "Previous", "Show Answer", "Edit", "Exit"])
-            print()
-            if show and action == "4":
-                action = "5"
+            if show and action == "3" or action == "4":
+                action = str(int(action) + 1)
             show = False
 
             if action == "1":
