@@ -7,14 +7,18 @@
                 "pinyin": [
                     "wéi"
                 ],
-                "definition": [
+                "definitions": [
                     "to preserve",
                     "to maintain",
                     "to hold together",
                     "dimension",
                     "vitamin (abbr. for 維生素|维生素[wei2 sheng1 su4])"
                 ],
-                "words": []
+                "words": [
+                    "思维",
+                    "维持",
+                    "维生素"
+                ]
             },
             "填": {
                 "char": "填",
@@ -22,11 +26,14 @@
                 "pinyin": [
                     "tián"
                 ],
-                "definition": [
+                "definitions": [
                     "to fill or stuff",
                     "(of a form etc) to fill in"
                 ],
-                "words": []
+                "words": [
+                    "填坑",
+                    "填充题"
+                ]
             },
             "限": {
                 "char": "限",
@@ -34,12 +41,16 @@
                 "pinyin": [
                     "xiàn"
                 ],
-                "definition": [
+                "definitions": [
                     "limit",
                     "bound",
                     "to set a limit (on)"
                 ],
-                "words": []
+                "words": [
+                    "有限",
+                    "无限",
+                    "限制"
+                ]
             },
             "崭": {
                 "char": "崭",
@@ -47,11 +58,13 @@
                 "pinyin": [
                     "zhǎn"
                 ],
-                "definition": [
+                "definitions": [
                     "high",
                     "very"
                 ],
-                "words": []
+                "words": [
+                    "崭新"
+                ]
             },
             "扩": {
                 "char": "扩",
@@ -59,10 +72,13 @@
                 "pinyin": [
                     "kuò"
                 ],
-                "definition": [
+                "definitions": [
                     "enlarge"
                 ],
-                "words": []
+                "words": [
+                    "扩大",
+                    "扩散"
+                ]
             },
             "厂": {
                 "char": "厂",
@@ -70,7 +86,7 @@
                 "pinyin": [
                     "chǎng"
                 ],
-                "definition": [
+                "definitions": [
                     "factory",
                     "yard",
                     "depot",
@@ -78,7 +94,9 @@
                     "works",
                     "(industrial) plant"
                 ],
-                "words": []
+                "words": [
+                    "工厂"
+                ]
             },
             "敞": {
                 "char": "敞",
@@ -86,13 +104,16 @@
                 "pinyin": [
                     "chǎng"
                 ],
-                "definition": [
+                "definitions": [
                     "open to the view of all",
                     "spacious",
                     "to open wide",
                     "to disclose"
                 ],
-                "words": []
+                "words": [
+                    "敞开",
+                    "宽敞"
+                ]
             },
             "诲": {
                 "char": "诲",
@@ -100,12 +121,14 @@
                 "pinyin": [
                     "hùi"
                 ],
-                "definition": [
+                "definitions": [
                     "to teach",
                     "to instruct",
                     "to induce"
                 ],
-                "words": []
+                "words": [
+                    "教诲"
+                ]
             },
             "阶": {
                 "char": "阶",
@@ -113,11 +136,14 @@
                 "pinyin": [
                     "jiē"
                 ],
-                "definition": [
+                "definitions": [
                     "rank or step",
                     "stairs"
                 ],
-                "words": []
+                "words": [
+                    "台阶",
+                    "阶级"
+                ]
             },
             "衔": {
                 "char": "衔",
@@ -125,7 +151,7 @@
                 "pinyin": [
                     "xián"
                 ],
-                "definition": [
+                "definitions": [
                     "bit (of a bridle)",
                     "to hold in the mouth",
                     "to harbor (feelings)",
@@ -134,7 +160,10 @@
                     "rank",
                     "title"
                 ],
-                "words": []
+                "words": [
+                    "衔接",
+                    "头衔"
+                ]
             },
             "脉": {
                 "char": "脉",
@@ -142,10 +171,13 @@
                 "pinyin": [
                     "mài"
                 ],
-                "definition": [
+                "definitions": [
                     "variant of 脈|脉[mai4]"
                 ],
-                "words": []
+                "words": [
+                    "叶脉",
+                    "脉搏"
+                ]
             },
             "赵": {
                 "char": "赵",
@@ -153,7 +185,7 @@
                 "pinyin": [
                     "zhào"
                 ],
-                "definition": [
+                "definitions": [
                     "to surpass (old)"
                 ],
                 "words": []
@@ -164,7 +196,7 @@
                 "pinyin": [
                     "kù"
                 ],
-                "definition": [
+                "definitions": [
                     "ruthless",
                     "strong (e.g. of wine)",
                     "(loanword) cool",
@@ -178,7 +210,7 @@
                 "pinyin": [
                     "zū"
                 ],
-                "definition": [
+                "definitions": [
                     "to hire",
                     "to rent",
                     "to charter",
@@ -195,7 +227,7 @@
                 "pinyin": [
                     "xiào"
                 ],
-                "definition": [
+                "definitions": [
                     "effect",
                     "efficacy",
                     "to imitate"
@@ -208,7 +240,7 @@
                 "pinyin": [
                     "yú"
                 ],
-                "definition": [
+                "definitions": [
                     "fisherman",
                     "to fish"
                 ],
@@ -220,7 +252,7 @@
                 "pinyin": [
                     "gāng"
                 ],
-                "definition": [
+                "definitions": [
                     "head rope of a fishing net",
                     "guiding principle",
                     "key link",
@@ -236,7 +268,7 @@
                 "pinyin": [
                     "bó"
                 ],
-                "definition": [
+                "definitions": [
                     "to fight",
                     "to combat",
                     "to seize",
@@ -250,7 +282,7 @@
                 "pinyin": [
                     "lèi"
                 ],
-                "definition": [
+                "definitions": [
                     "rope",
                     "to bind together",
                     "to twist around"
@@ -263,7 +295,7 @@
                 "pinyin": [
                     "què"
                 ],
-                "definition": [
+                "definitions": [
                     "magpie"
                 ],
                 "words": []
@@ -274,7 +306,7 @@
                 "pinyin": [
                     "fū"
                 ],
-                "definition": [
+                "definitions": [
                     "to spread",
                     "to lay out",
                     "to apply (powder, ointment etc)",
@@ -289,7 +321,7 @@
                 "pinyin": [
                     "xūn"
                 ],
-                "definition": [
+                "definitions": [
                     "fragrance",
                     "warm",
                     "to educate",
@@ -305,7 +337,7 @@
                 "pinyin": [
                     "xué"
                 ],
-                "definition": [
+                "definitions": [
                     "cave",
                     "cavity",
                     "hole",
@@ -320,7 +352,7 @@
                 "pinyin": [
                     "jǐu"
                 ],
-                "definition": [
+                "definitions": [
                     "moxibustion (TCM)"
                 ],
                 "words": []
@@ -331,7 +363,7 @@
                 "pinyin": [
                     "ài"
                 ],
-                "definition": [
+                "definitions": [
                     "to mow",
                     "to cut",
                     "to reap",
@@ -345,7 +377,7 @@
                 "pinyin": [
                     "fù"
                 ],
-                "definition": [
+                "definitions": [
                     "abdomen",
                     "stomach",
                     "belly"
@@ -358,7 +390,7 @@
                 "pinyin": [
                     "sǔi"
                 ],
-                "definition": [
+                "definitions": [
                     "marrow",
                     "essence",
                     "quintessence",
@@ -372,7 +404,7 @@
                 "pinyin": [
                     "ma"
                 ],
-                "definition": [
+                "definitions": [
                     "modal particle indicating that sth is obvious",
                     "particle indicating a pause for emphasis"
                 ],
@@ -384,7 +416,7 @@
                 "pinyin": [
                     "dà"
                 ],
-                "definition": [
+                "definitions": [
                     "see 大夫[dai4 fu5]"
                 ],
                 "words": []
@@ -395,7 +427,7 @@
                 "pinyin": [
                     "shū"
                 ],
-                "definition": [
+                "definitions": [
                     "vegetables"
                 ],
                 "words": []
@@ -406,7 +438,7 @@
                 "pinyin": [
                     "xié"
                 ],
-                "definition": [
+                "definitions": [
                     "to cooperate",
                     "to harmonize",
                     "to help",
@@ -421,7 +453,7 @@
                 "pinyin": [
                     "zhàn"
                 ],
-                "definition": [
+                "definitions": [
                     "to tremble",
                     "to shiver",
                     "to shake",
@@ -436,7 +468,7 @@
                 "pinyin": [
                     "cù"
                 ],
-                "definition": [
+                "definitions": [
                     "urgent",
                     "hurried",
                     "to urge",
@@ -453,7 +485,7 @@
                 "pinyin": [
                     "xiāo"
                 ],
-                "definition": [
+                "definitions": [
                     "to melt (metal)",
                     "to cancel or annul",
                     "to sell",
@@ -469,7 +501,7 @@
                 "pinyin": [
                     "lún"
                 ],
-                "definition": [
+                "definitions": [
                     "human relationship",
                     "order",
                     "coherence"
@@ -482,7 +514,7 @@
                 "pinyin": [
                     "wèi"
                 ],
-                "definition": [
+                "definitions": [
                     "to speak",
                     "to say",
                     "to name",
@@ -498,7 +530,7 @@
                 "pinyin": [
                     "jiàn"
                 ],
-                "definition": [
+                "definitions": [
                     "key (on a piano or computer keyboard)",
                     "button (on a mouse or other device)",
                     "chemical bond",
@@ -512,7 +544,7 @@
                 "pinyin": [
                     "tǎn"
                 ],
-                "definition": [
+                "definitions": [
                     "flat",
                     "open-hearted",
                     "level",
@@ -526,7 +558,7 @@
                 "pinyin": [
                     "zhèng"
                 ],
-                "definition": [
+                "definitions": [
                     "Zheng state during the Warring States period",
                     "surname Zheng",
                     "abbr. for 鄭州|郑州[Zheng4 zhou1]"
@@ -539,7 +571,7 @@
                 "pinyin": [
                     "mù"
                 ],
-                "definition": [
+                "definitions": [
                     "to herd",
                     "to breed livestock",
                     "to govern (old)",
@@ -553,7 +585,7 @@
                 "pinyin": [
                     "xìng"
                 ],
-                "definition": [
+                "definitions": [
                     "apricot",
                     "almond"
                 ],
@@ -565,7 +597,7 @@
                 "pinyin": [
                     "yáo"
                 ],
-                "definition": [
+                "definitions": [
                     "variant of 肴[yao2]"
                 ],
                 "words": []
@@ -576,7 +608,7 @@
                 "pinyin": [
                     "fén"
                 ],
-                "definition": [
+                "definitions": [
                     "to burn"
                 ],
                 "words": []
@@ -587,7 +619,7 @@
                 "pinyin": [
                     "yūn"
                 ],
-                "definition": [
+                "definitions": [
                     "dizzy",
                     "halo",
                     "ring around moon or sun"
@@ -600,7 +632,7 @@
                 "pinyin": [
                     "fèng"
                 ],
-                "definition": [
+                "definitions": [
                     "to offer (tribute)",
                     "to present respectfully (to superior, ancestor, deity etc)",
                     "to esteem",
@@ -617,7 +649,7 @@
                 "pinyin": [
                     "pì"
                 ],
-                "definition": [
+                "definitions": [
                     "biased",
                     "low",
                     "rustic",
@@ -631,7 +663,7 @@
                 "pinyin": [
                     "lv̀"
                 ],
-                "definition": [
+                "definitions": [
                     "to lead",
                     "to command",
                     "rash",
@@ -649,7 +681,7 @@
                 "pinyin": [
                     "shè"
                 ],
-                "definition": [
+                "definitions": [
                     "society",
                     "group",
                     "club",
@@ -664,7 +696,7 @@
                 "pinyin": [
                     "zé"
                 ],
-                "definition": [
+                "definitions": [
                     "to select",
                     "to choose",
                     "to pick over",
@@ -681,7 +713,7 @@
                 "pinyin": [
                     "yè"
                 ],
-                "definition": [
+                "definitions": [
                     "to pull",
                     "to tug at (sth)"
                 ],
@@ -693,7 +725,7 @@
                 "pinyin": [
                     "zhàn"
                 ],
-                "definition": [
+                "definitions": [
                     "to dip in (ink, sauce etc)"
                 ],
                 "words": []
@@ -704,7 +736,7 @@
                 "pinyin": [
                     "zōng"
                 ],
-                "definition": [
+                "definitions": [
                     "school",
                     "sect",
                     "purpose",
@@ -722,7 +754,7 @@
                 "pinyin": [
                     "zhóu"
                 ],
-                "definition": [
+                "definitions": [
                     "see 壓軸戲|压轴戏[ya1 zhou4 xi4]",
                     "Taiwan pr. [zhou2]"
                 ],
@@ -734,7 +766,7 @@
                 "pinyin": [
                     "jiào"
                 ],
-                "definition": [
+                "definitions": [
                     "a sedan chair",
                     "a palanquin",
                     "a litter"
@@ -747,7 +779,7 @@
                 "pinyin": [
                     "róng"
                 ],
-                "definition": [
+                "definitions": [
                     "to dissolve",
                     "soluble"
                 ],
@@ -759,7 +791,7 @@
                 "pinyin": [
                     "lí"
                 ],
-                "definition": [
+                "definitions": [
                     "one hundredth",
                     "centi-"
                 ],
@@ -771,7 +803,7 @@
                 "pinyin": [
                     "chéng"
                 ],
-                "definition": [
+                "definitions": [
                     "old variant of 乘[cheng2]"
                 ],
                 "words": []
@@ -782,7 +814,7 @@
                 "pinyin": [
                     "nì"
                 ],
-                "definition": [
+                "definitions": [
                     "greasy",
                     "soft",
                     "unctuous",
@@ -797,7 +829,7 @@
                 "pinyin": [
                     "dí"
                 ],
-                "definition": [
+                "definitions": [
                     "flute"
                 ],
                 "words": []
@@ -808,7 +840,7 @@
                 "pinyin": [
                     "yōu"
                 ],
-                "definition": [
+                "definitions": [
                     "remote",
                     "hidden away",
                     "secluded",
@@ -826,7 +858,7 @@
                 "pinyin": [
                     "hán"
                 ],
-                "definition": [
+                "definitions": [
                     "Han, one of the Seven Hero States of the Warring States 戰國七雄|战国七雄",
                     "Korea from the fall of the Joseon dynasty in 1897",
                     "Korea, esp. South Korea 大韓民國|大韩民国",
@@ -840,7 +872,7 @@
                 "pinyin": [
                     "lài"
                 ],
-                "definition": [
+                "definitions": [
                     "variant of 賴|赖[lai4]"
                 ],
                 "words": []
@@ -851,7 +883,7 @@
                 "pinyin": [
                     "màn"
                 ],
-                "definition": [
+                "definitions": [
                     "creeper",
                     "to spread"
                 ],
@@ -863,7 +895,7 @@
                 "pinyin": [
                     "jiāo"
                 ],
-                "definition": [
+                "definitions": [
                     "lovable",
                     "pampered",
                     "tender",
@@ -878,7 +910,7 @@
                 "pinyin": [
                     "zhàng"
                 ],
-                "definition": [
+                "definitions": [
                     "to block",
                     "to hinder",
                     "to obstruct"
@@ -891,7 +923,7 @@
                 "pinyin": [
                     "bā"
                 ],
-                "definition": [
+                "definitions": [
                     "to rake up",
                     "to steal",
                     "to braise",
@@ -905,7 +937,7 @@
                 "pinyin": [
                     "ō"
                 ],
-                "definition": [
+                "definitions": [
                     "Oh!"
                 ],
                 "words": []
@@ -916,7 +948,7 @@
                 "pinyin": [
                     "cā"
                 ],
-                "definition": [
+                "definitions": [
                     "(onom.) snap",
                     "pop",
                     "see 喀嚓[ka1 cha1]"
@@ -929,7 +961,7 @@
                 "pinyin": [
                     "tū"
                 ],
-                "definition": [
+                "definitions": [
                     "bald",
                     "blunt"
                 ],
@@ -941,7 +973,7 @@
                 "pinyin": [
                     "zī"
                 ],
-                "definition": [
+                "definitions": [
                     "to grow",
                     "to nourish",
                     "to increase",
@@ -959,7 +991,7 @@
                 "pinyin": [
                     "jū"
                 ],
-                "definition": [
+                "definitions": [
                     "to destroy",
                     "to stop"
                 ],
@@ -971,7 +1003,7 @@
                 "pinyin": [
                     "fū"
                 ],
-                "definition": [
+                "definitions": [
                     "breeding",
                     "to incubate",
                     "to hatch"
@@ -984,7 +1016,7 @@
                 "pinyin": [
                     "bǔ"
                 ],
-                "definition": [
+                "definitions": [
                     "to catch",
                     "to seize",
                     "to capture"
@@ -997,7 +1029,7 @@
                 "pinyin": [
                     "mèi"
                 ],
-                "definition": [
+                "definitions": [
                     "flatter",
                     "charm"
                 ],
@@ -1009,7 +1041,7 @@
                 "pinyin": [
                     "guàn"
                 ],
-                "definition": [
+                "definitions": [
                     "to irrigate",
                     "to pour",
                     "to install (software)",
@@ -1023,7 +1055,7 @@
                 "pinyin": [
                     "rǎng"
                 ],
-                "definition": [
+                "definitions": [
                     "soil",
                     "earth"
                 ],
@@ -1035,7 +1067,7 @@
                 "pinyin": [
                     "lán"
                 ],
-                "definition": [
+                "definitions": [
                     "to block sb's path",
                     "to obstruct",
                     "to flag down (a taxi)"
@@ -1048,7 +1080,7 @@
                 "pinyin": [
                     "dǎ"
                 ],
-                "definition": [
+                "definitions": [
                     "to beat",
                     "to strike",
                     "to hit",
@@ -1075,7 +1107,7 @@
                 "pinyin": [
                     "yì"
                 ],
-                "definition": [
+                "definitions": [
                     "epidemic",
                     "plague"
                 ],
@@ -1087,7 +1119,7 @@
                 "pinyin": [
                     "áng"
                 ],
-                "definition": [
+                "definitions": [
                     "to lift",
                     "to raise",
                     "to raise one's head",
@@ -1104,7 +1136,7 @@
                 "pinyin": [
                     "nè"
                 ],
-                "definition": [
+                "definitions": [
                     "sentence-final particle (abbr. for 呢啊[ne5 a5] or variant of 哪[na5])"
                 ],
                 "words": []
@@ -1115,7 +1147,7 @@
                 "pinyin": [
                     "cuò"
                 ],
-                "definition": [
+                "definitions": [
                     "to handle",
                     "to manage",
                     "to put in order",
@@ -1133,7 +1165,7 @@
                 "pinyin": [
                     "fèn"
                 ],
-                "definition": [
+                "definitions": [
                     "indignant",
                     "anger",
                     "resentment"
@@ -1146,7 +1178,7 @@
                 "pinyin": [
                     "jìng"
                 ],
-                "definition": [
+                "definitions": [
                     "to compete",
                     "to contend",
                     "to struggle"
@@ -1159,7 +1191,7 @@
                 "pinyin": [
                     "shū"
                 ],
-                "definition": [
+                "definitions": [
                     "to dredge",
                     "to clear away obstruction",
                     "thin",
@@ -1181,7 +1213,7 @@
                 "pinyin": [
                     "fēn"
                 ],
-                "definition": [
+                "definitions": [
                     "miasma",
                     "vapor"
                 ],
@@ -1193,7 +1225,7 @@
                 "pinyin": [
                     "zhōu"
                 ],
-                "definition": [
+                "definitions": [
                     "boat"
                 ],
                 "words": []
@@ -1204,7 +1236,7 @@
                 "pinyin": [
                     "zòng"
                 ],
-                "definition": [
+                "definitions": [
                     "variant of 粽[zong4]"
                 ],
                 "words": []
@@ -1215,7 +1247,7 @@
                 "pinyin": [
                     "dōu"
                 ],
-                "definition": [
+                "definitions": [
                     "old variant of 兜[dou1]"
                 ],
                 "words": []
@@ -1226,7 +1258,7 @@
                 "pinyin": [
                     "kǎi"
                 ],
-                "definition": [
+                "definitions": [
                     "triumphant",
                     "victorious",
                     "chi (Greek letter Χχ)"
@@ -1239,7 +1271,7 @@
                 "pinyin": [
                     "zī"
                 ],
-                "definition": [
+                "definitions": [
                     "resources",
                     "capital",
                     "to provide",
@@ -1256,7 +1288,7 @@
                 "pinyin": [
                     "wèi"
                 ],
-                "definition": [
+                "definitions": [
                     "to feed"
                 ],
                 "words": []
@@ -1267,7 +1299,7 @@
                 "pinyin": [
                     "zhàng"
                 ],
-                "definition": [
+                "definitions": [
                     "dropsical",
                     "swollen",
                     "to swell",
@@ -1281,7 +1313,7 @@
                 "pinyin": [
                     "líng"
                 ],
-                "definition": [
+                "definitions": [
                     "(onom.) ting-a-ling (in compounds such as 玎玲 or 玲瓏|玲珑)",
                     "tinkling of gem-pendants"
                 ],
@@ -1293,7 +1325,7 @@
                 "pinyin": [
                     "kā"
                 ],
-                "definition": [
+                "definitions": [
                     "coffee",
                     "class",
                     "grade"
@@ -1306,7 +1338,7 @@
                 "pinyin": [
                     "fēi"
                 ],
-                "definition": [
+                "definitions": [
                     "(phonetic component)"
                 ],
                 "words": []
@@ -1317,7 +1349,7 @@
                 "pinyin": [
                     "yú"
                 ],
-                "definition": [
+                "definitions": [
                     "to give"
                 ],
                 "words": []
@@ -1328,7 +1360,7 @@
                 "pinyin": [
                     "gěi"
                 ],
-                "definition": [
+                "definitions": [
                     "to supply",
                     "to provide"
                 ],
@@ -1340,7 +1372,7 @@
                 "pinyin": [
                     "xiè"
                 ],
-                "definition": [
+                "definitions": [
                     "to unload",
                     "to unhitch",
                     "to remove or strip",
@@ -1354,7 +1386,7 @@
                 "pinyin": [
                     "jī"
                 ],
-                "definition": [
+                "definitions": [
                     "to spin (hemp etc)",
                     "merit",
                     "accomplishment",
@@ -1368,7 +1400,7 @@
                 "pinyin": [
                     "lòu"
                 ],
-                "definition": [
+                "definitions": [
                     "to leak",
                     "to divulge",
                     "to leave out by mistake",
@@ -1382,7 +1414,7 @@
                 "pinyin": [
                     "kuò"
                 ],
-                "definition": [
+                "definitions": [
                     "rich",
                     "wide",
                     "broad"
@@ -1395,7 +1427,7 @@
                 "pinyin": [
                     "zhí"
                 ],
-                "definition": [
+                "definitions": [
                     "to execute (a plan)",
                     "to grasp"
                 ],
@@ -1407,7 +1439,7 @@
                 "pinyin": [
                     "lú"
                 ],
-                "definition": [
+                "definitions": [
                     "forehead",
                     "skull"
                 ],
@@ -1419,7 +1451,7 @@
                 "pinyin": [
                     "chāo"
                 ],
-                "definition": [
+                "definitions": [
                     "money",
                     "paper money",
                     "variant of 抄[chao1]"
@@ -1432,7 +1464,7 @@
                 "pinyin": [
                     "jú"
                 ],
-                "definition": [
+                "definitions": [
                     "to hold with both hands",
                     "to grasp firmly",
                     "fig. to offer up sincerely"
@@ -1445,7 +1477,7 @@
                 "pinyin": [
                     "píng"
                 ],
-                "definition": [
+                "definitions": [
                     "a plain",
                     "ping, unit of area equal to approx. 3.3058 square meters (used in Japan and Taiwan)"
                 ],
