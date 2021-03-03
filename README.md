@@ -9,16 +9,15 @@ Modules used:
 
 # Usage & Installation
 
-### Repl.it
+## Repl.it
 
 Go to https://repl.it/@FatBanana/chinesestudy and click Run.
 
-### Running locally
+## Running locally
 
 Install [Python](https://www.python.org/).
 
 Download this repository.
-
 Open a terminal or command prompt and cd into the repository folder.
 
 To install dependencies, run
