@@ -48,7 +48,7 @@ def edit(data, char):
             char_data = data['units'][unit][char]
             break
     if not char_data:
-        return -1
+        return 0, None
     def print_stuff():
         console.clear()
         console.print("[bold]Editing character")
@@ -63,11 +63,12 @@ def edit(data, char):
     while True:
         print_stuff()
         edit = multipleChoice("What would you like to edit?", ["Delete", "Edit Pinyin", "Edit Words", "Back"])
+        type = 2
         if edit == "1":
             data['units'][unit].pop(char)
             with open('chars.json', 'w', encoding = 'utf-8') as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)
-            return 1
+            return 1, None
         elif edit == "2":
             print_stuff()
             pinyin = Prompt.ask("Enter pinyin", console = console)
@@ -81,7 +82,7 @@ def edit(data, char):
             with open('chars.json', 'w', encoding = 'utf-8') as f:
                 json.dump(data, f, ensure_ascii = False, indent = 4)
         elif edit == "4":
-            return 0
+            return type, data['units'][unit][char]
 
 while True:
     console.clear()
@@ -140,7 +141,7 @@ while True:
                 console.print(', '.join(chars[index]['words']))
                 print()
             action = multipleChoice("What would you like to do?", ["Next", "Previous", "Edit", "Exit"] if show else ["Next", "Previous", "Show Answer", "Edit", "Exit"])
-            if show and action == "3" or action == "4":
+            if show and (action == "3" or action == "4"):
                 action = str(int(action) + 1)
             show = False
 
@@ -154,11 +155,11 @@ while True:
                 show = True
                 continue
             elif action == "4":
-                result = edit(data, chars[index]['char'])
-                if result == 1:
+                type, result = edit(data, chars[index]['char'])
+                if type == 1:
                     chars = chars[:index] + chars[index + 1:]
-                with open('chars.json', 'r', encoding = 'utf-8') as f:
-                    data = json.load(f)
+                elif type == 2:
+                    chars[index] = result
             elif action == "5":
                 break
 
@@ -224,8 +225,8 @@ while True:
             char = Prompt.ask("[bold yellow]?[/bold yellow] What character would you like to edit? (Press Enter to return to main menu)")
             if not char:
                 break
-            result = edit(data, char)
-            if result < 0:
+            type, result = edit(data, char)
+            if type < 0:
                 continue
 
 

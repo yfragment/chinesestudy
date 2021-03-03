@@ -224,7 +224,10 @@
                     "rent",
                     "land tax"
                 ],
-                "words": []
+                "words": [
+                    "出租车",
+                    "租房子"
+                ]
             },
             "效": {
                 "char": "效",
@@ -237,7 +240,10 @@
                     "efficacy",
                     "to imitate"
                 ],
-                "words": []
+                "words": [
+                    "效果",
+                    "无效"
+                ]
             },
             "渔": {
                 "char": "渔",
