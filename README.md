@@ -11,7 +11,7 @@ Modules used:
 
 ## Repl.it
 
-Go to https://repl.it/@FatBanana/chinesestudy and click Run.
+Go to https://repl.it/@FatBanana/chinesestudy and click Run (you might have to wait a while for it to install everything).
 
 ## Running locally
 
