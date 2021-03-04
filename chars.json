@@ -1136,7 +1136,10 @@
                     "bald",
                     "blunt"
                 ],
-                "words": []
+                "words": [
+                    "光秃秃",
+                    "秃鹰"
+                ]
             },
             "滋": {
                 "char": "滋",
@@ -1154,7 +1157,10 @@
                     "(dialect) to spout",
                     "to spurt"
                 ],
-                "words": []
+                "words": [
+                    "滋味",
+                    "滋润"
+                ]
             },
             "沮": {
                 "char": "沮",
@@ -1166,7 +1172,9 @@
                     "to destroy",
                     "to stop"
                 ],
-                "words": []
+                "words": [
+                    "沮丧"
+                ]
             },
             "孵": {
                 "char": "孵",
@@ -1179,7 +1187,10 @@
                     "to incubate",
                     "to hatch"
                 ],
-                "words": []
+                "words": [
+                    "孵育",
+                    "孵蛋"
+                ]
             },
             "捕": {
                 "char": "捕",
@@ -1192,7 +1203,10 @@
                     "to seize",
                     "to capture"
                 ],
-                "words": []
+                "words": [
+                    "追捕",
+                    "捕捞"
+                ]
             },
             "媚": {
                 "char": "媚",
@@ -1204,7 +1218,10 @@
                     "flatter",
                     "charm"
                 ],
-                "words": []
+                "words": [
+                    "明媚",
+                    "献媚"
+                ]
             },
             "灌": {
                 "char": "灌",
@@ -1218,7 +1235,10 @@
                     "to install (software)",
                     "to record (music)"
                 ],
-                "words": []
+                "words": [
+                    "灌木",
+                    "灌水"
+                ]
             },
             "壤": {
                 "char": "壤",
@@ -1230,7 +1250,10 @@
                     "soil",
                     "earth"
                 ],
-                "words": []
+                "words": [
+                    "土壤",
+                    "两国接壤"
+                ]
             },
             "拦": {
                 "char": "拦",
@@ -1243,13 +1266,17 @@
                     "to obstruct",
                     "to flag down (a taxi)"
                 ],
-                "words": []
+                "words": [
+                    "阻拦",
+                    "拦截"
+                ]
             },
             "打": {
                 "char": "打",
                 "week": 8,
                 "pinyin": [
-                    "dǎ"
+                    "dǎ",
+                    "dá"
                 ],
                 "definitions": [
                     "to beat",
@@ -1270,7 +1297,10 @@
                     "since",
                     "from"
                 ],
-                "words": []
+                "words": [
+                    "打鼓",
+                    "一打鸡蛋"
+                ]
             },
             "疫": {
                 "char": "疫",
@@ -1282,7 +1312,10 @@
                     "epidemic",
                     "plague"
                 ],
-                "words": []
+                "words": [
+                    "疫病",
+                    "疫苗"
+                ]
             },
             "昂": {
                 "char": "昂",
@@ -1299,7 +1332,10 @@
                     "soaring",
                     "expensive"
                 ],
-                "words": []
+                "words": [
+                    "高昂",
+                    "昂贵"
+                ]
             },
             "呐": {
                 "char": "呐",
@@ -1310,7 +1346,9 @@
                 "definitions": [
                     "sentence-final particle (abbr. for 呢啊[ne5 a5] or variant of 哪[na5])"
                 ],
-                "words": []
+                "words": [
+                    "呐喊"
+                ]
             },
             "措": {
                 "char": "措",
@@ -1328,7 +1366,10 @@
                     "to take action on",
                     "to plan"
                 ],
-                "words": []
+                "words": [
+                    "措施",
+                    "举措"
+                ]
             },
             "愤": {
                 "char": "愤",
@@ -1341,7 +1382,10 @@
                     "anger",
                     "resentment"
                 ],
-                "words": []
+                "words": [
+                    "气愤",
+                    "愤怒"
+                ]
             },
             "竞": {
                 "char": "竞",
@@ -1354,29 +1398,10 @@
                     "to contend",
                     "to struggle"
                 ],
-                "words": []
-            },
-            "疏": {
-                "char": "疏",
-                "week": 9,
-                "pinyin": [
-                    "shū"
-                ],
-                "definitions": [
-                    "to dredge",
-                    "to clear away obstruction",
-                    "thin",
-                    "sparse",
-                    "scanty",
-                    "distant (relation)",
-                    "not close",
-                    "to neglect",
-                    "negligent",
-                    "to present a memorial to the Emperor",
-                    "commentary",
-                    "annotation"
-                ],
-                "words": []
+                "words": [
+                    "竞争",
+                    "竞赛"
+                ]
             },
             "氛": {
                 "char": "氛",
@@ -1388,7 +1413,10 @@
                     "miasma",
                     "vapor"
                 ],
-                "words": []
+                "words": [
+                    "气氛",
+                    "氛围"
+                ]
             },
             "舟": {
                 "char": "舟",
@@ -1399,7 +1427,10 @@
                 "definitions": [
                     "boat"
                 ],
-                "words": []
+                "words": [
+                    "独木舟",
+                    "轻舟"
+                ]
             },
             "粽": {
                 "char": "粽",
@@ -1410,7 +1441,10 @@
                 "definitions": [
                     "variant of 粽[zong4]"
                 ],
-                "words": []
+                "words": [
+                    "粽子",
+                    "肉粽"
+                ]
             },
             "兜": {
                 "char": "兜",
@@ -1421,7 +1455,10 @@
                 "definitions": [
                     "old variant of 兜[dou1]"
                 ],
-                "words": []
+                "words": [
+                    "兜售",
+                    "兜风"
+                ]
             },
             "凯": {
                 "char": "凯",
@@ -1434,7 +1471,9 @@
                     "victorious",
                     "chi (Greek letter Χχ)"
                 ],
-                "words": []
+                "words": [
+                    "凯哥"
+                ]
             },
             "资": {
                 "char": "资",
@@ -1451,7 +1490,10 @@
                     "money",
                     "expense"
                 ],
-                "words": []
+                "words": [
+                    "工资",
+                    "资格"
+                ]
             },
             "喂": {
                 "char": "喂",
@@ -1462,7 +1504,10 @@
                 "definitions": [
                     "to feed"
                 ],
-                "words": []
+                "words": [
+                    "喂饭",
+                    "喂药"
+                ]
             },
             "胀": {
                 "char": "胀",
@@ -1476,7 +1521,10 @@
                     "to swell",
                     "to be bloated"
                 ],
-                "words": []
+                "words": [
+                    "肿胀",
+                    "胀痛"
+                ]
             },
             "玲": {
                 "char": "玲",
@@ -1488,7 +1536,9 @@
                     "(onom.) ting-a-ling (in compounds such as 玎玲 or 玲瓏|玲珑)",
                     "tinkling of gem-pendants"
                 ],
-                "words": []
+                "words": [
+                    "玲珑"
+                ]
             },
             "咖": {
                 "char": "咖",
@@ -1501,7 +1551,9 @@
                     "class",
                     "grade"
                 ],
-                "words": []
+                "words": [
+                    "咖啡"
+                ]
             },
             "啡": {
                 "char": "啡",
@@ -1512,30 +1564,40 @@
                 "definitions": [
                     "(phonetic component)"
                 ],
-                "words": []
+                "words": [
+                    "咖啡",
+                    "吗啡"
+                ]
             },
             "予": {
                 "char": "予",
                 "week": 10,
                 "pinyin": [
-                    "yú"
+                    "yǔ"
                 ],
                 "definitions": [
                     "to give"
                 ],
-                "words": []
+                "words": [
+                    "给予",
+                    "予以奖励"
+                ]
             },
             "给": {
                 "char": "给",
                 "week": 10,
                 "pinyin": [
-                    "gěi"
+                    "gěi",
+                    "jǐ"
                 ],
                 "definitions": [
                     "to supply",
                     "to provide"
                 ],
-                "words": []
+                "words": [
+                    "递给",
+                    "给予"
+                ]
             },
             "卸": {
                 "char": "卸",
@@ -1549,13 +1611,16 @@
                     "to remove or strip",
                     "to get rid of"
                 ],
-                "words": []
+                "words": [
+                    "拆卸",
+                    "卸车"
+                ]
             },
             "绩": {
                 "char": "绩",
                 "week": 11,
                 "pinyin": [
-                    "jī"
+                    "jì"
                 ],
                 "definitions": [
                     "to spin (hemp etc)",
@@ -1563,7 +1628,10 @@
                     "accomplishment",
                     "Taiwan pr. [ji1]"
                 ],
-                "words": []
+                "words": [
+                    "成绩",
+                    "绩效"
+                ]
             },
             "漏": {
                 "char": "漏",
@@ -1577,7 +1645,10 @@
                     "to leave out by mistake",
                     "waterclock or hourglass (old)"
                 ],
-                "words": []
+                "words": [
+                    "漏水",
+                    "遗漏"
+                ]
             },
             "阔": {
                 "char": "阔",
@@ -1590,7 +1661,10 @@
                     "wide",
                     "broad"
                 ],
-                "words": []
+                "words": [
+                    "宽阔",
+                    "开阔"
+                ]
             },
             "执": {
                 "char": "执",
@@ -1602,7 +1676,10 @@
                     "to execute (a plan)",
                     "to grasp"
                 ],
-                "words": []
+                "words": [
+                    "执行",
+                    "执政"
+                ]
             },
             "颅": {
                 "char": "颅",
@@ -1614,7 +1691,10 @@
                     "forehead",
                     "skull"
                 ],
-                "words": []
+                "words": [
+                    "颅骨",
+                    "头颅"
+                ]
             },
             "钞": {
                 "char": "钞",
@@ -1627,20 +1707,25 @@
                     "paper money",
                     "variant of 抄[chao1]"
                 ],
-                "words": []
+                "words": [
+                    "钞票",
+                    "伪钞"
+                ]
             },
             "掬": {
                 "char": "掬",
                 "week": 11,
                 "pinyin": [
-                    "jú"
+                    "jū"
                 ],
                 "definitions": [
                     "to hold with both hands",
                     "to grasp firmly",
                     "fig. to offer up sincerely"
                 ],
-                "words": []
+                "words": [
+                    "笑容可掬"
+                ]
             },
             "坪": {
                 "char": "坪",
@@ -1652,7 +1737,10 @@
                     "a plain",
                     "ping, unit of area equal to approx. 3.3058 square meters (used in Japan and Taiwan)"
                 ],
-                "words": []
+                "words": [
+                    "草坪",
+                    "停机坪"
+                ]
             }
         }
     }
