@@ -113,8 +113,9 @@ while True:
         with open('chars.json', 'r', encoding = 'utf-8') as f:
             data = json.load(f)
         study_mode = multipleChoice("What would you like to study?", ["All", "Specific Units", "Marked for Review", "Quit"] if len(data['review']) > 0 else ["All", "Specific Units", "Exit"])
+        
         if len(data['review']) == 0 and study_mode == "3":
-            study_mode == "4"
+            study_mode = "4"
 
         if study_mode == "1":
             for unit in data['units']:
