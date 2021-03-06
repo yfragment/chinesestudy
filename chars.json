@@ -1,5 +1,6 @@
 {
-    "review": [],
+    "review": [
+    ],
     "units": {
         "8下": {
             "维": {
@@ -1783,7 +1784,7 @@
                 "char": "掺",
                 "week": 1,
                 "pinyin": [
-                    "xiān"
+                    "chān"
                 ],
                 "definitions": [
                     "to grasp"
@@ -1886,7 +1887,8 @@
                 "char": "更",
                 "week": 1,
                 "pinyin": [
-                    "gèng"
+                    "gèng",
+                    "gēng"
                 ],
                 "definitions": [
                     "more",
@@ -1939,7 +1941,7 @@
                 "char": "触",
                 "week": 2,
                 "pinyin": [
-                    "hóng"
+                    "chù"
                 ],
                 "definitions": [
                     "to touch",
@@ -2227,7 +2229,8 @@
                 "char": "涨",
                 "week": 3,
                 "pinyin": [
-                    "zhǎng"
+                    "zhǎng",
+                    "zhàng"
                 ],
                 "definitions": [
                     "to swell",
@@ -2239,7 +2242,8 @@
                 "char": "会",
                 "week": 3,
                 "pinyin": [
-                    "hùi"
+                    "hùi",
+                    "kuài"
                 ],
                 "definitions": [
                     "to balance an account",
@@ -2739,7 +2743,8 @@
                 "char": "丧",
                 "week": 6,
                 "pinyin": [
-                    "sāng"
+                    "sāng",
+                    "sàng"
                 ],
                 "definitions": [
                     "to lose sth abstract but important (courage, authority, one's life etc)",
@@ -2860,7 +2865,7 @@
                 "char": "褐",
                 "week": 7,
                 "pinyin": [
-                    "hé"
+                    "hè"
                 ],
                 "definitions": [
                     "brown",
@@ -3124,7 +3129,8 @@
                 "char": "削",
                 "week": 9,
                 "pinyin": [
-                    "xuē"
+                    "xuē",
+                    "xiāo"
                 ],
                 "definitions": [
                     "to pare",
@@ -3174,7 +3180,8 @@
                 "char": "咳",
                 "week": 9,
                 "pinyin": [
-                    "ké"
+                    "ké",
+                    "hāi"
                 ],
                 "definitions": [
                     "cough"

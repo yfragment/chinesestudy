@@ -167,8 +167,8 @@ while True:
             print()
 
             if show:
-                console.print(", ".join([p for p in chars[index]['pinyin']]))
-                console.print(', '.join(chars[index]['definitions']))
+                console.print(', '.join([p for p in chars[index]['pinyin']]))
+                console.print("[default]" + ', '.join(chars[index]['definitions']))
                 console.print(', '.join(chars[index]['words']))
                 print()
             action = multipleChoice("What would you like to do?", ["Next", "Previous", "Hide Answer" if show else "Show Answer", "Unmark for Review" if chars[index]['char'] in data["review"] else "Mark for Review", "Edit", "Exit"])
@@ -235,8 +235,8 @@ while True:
                 print()
                 console.print(Panel.fit(char, border_style = "red" if char in data["review"] else "default"))
                 print()
-                console.print(", ".join([p for p in char_data['pinyin']]))
-                console.print(', '.join(char_data['definitions']))
+                console.print(', '.join([p for p in char_data['pinyin']]))
+                console.print("[default]" + ', '.join(char_data['definitions']))
                 console.print(', '.join(char_data['words']))
                 print()
                 action = multipleChoice("What would you like to do?", ["Edit", "Unmark for Review" if char in data["review"] else "Mark for Review", "Exit"])
