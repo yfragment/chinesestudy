@@ -163,7 +163,7 @@ while True:
             print()
             console.print(f"[[bold blue]{index + 1}[/bold blue]/[bold blue]{len(chars)}[/bold blue]]")
             print()
-            console.print(Panel.fit(chars[index]['char'], border_style = "red" if chars[index]['char'] in data["review"] else "default"))
+            console.print(Panel.fit(("[underline]" if len(chars[index]['pinyin']) > 1 else "") + chars[index]['char'], border_style = "red" if chars[index]['char'] in data["review"] else "default"))
             print()
 
             if show:
@@ -233,7 +233,7 @@ while True:
                 console.clear()
                 console.print("[bold]Search results")
                 print()
-                console.print(Panel.fit(char, border_style = "red" if char in data["review"] else "default"))
+                console.print(Panel.fit(("[underline]" if len(char_data['pinyin']) > 1 else "") + char, border_style = "red" if char in data["review"] else "default"))
                 print()
                 console.print(', '.join([p for p in char_data['pinyin']]))
                 console.print("[default]" + ', '.join(char_data['definitions']))
