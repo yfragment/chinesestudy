@@ -120,7 +120,9 @@ while True:
         if study_mode == "1":
             for unit in data['units']:
                 for char in data['units'][unit]:
-                    chars.append(data['units'][unit][char])
+                    new = data['units'][unit][char].copy()
+                    new['unit'] = unit
+                    chars.append(new)
 
         elif study_mode == "2":
             units = []
@@ -134,7 +136,9 @@ while True:
             for char in data['review']:
                 for unit in data['units']:
                     if char in data['units'][unit]:
-                        chars.append(data['units'][unit][char])
+                        new = data['units'][unit][char].copy()
+                        new['unit'] = unit
+                        chars.append(new)
 
         elif study_mode == "4":
             continue
@@ -169,7 +173,9 @@ while True:
             if show:
                 console.print(', '.join([p for p in chars[index]['pinyin']]))
                 console.print("[default]" + ', '.join(chars[index]['definitions']))
-                console.print(', '.join(chars[index]['words']))
+                if chars[index]['words']:
+                    console.print(', '.join(chars[index]['words']))
+                console.print(f"Unit [blue][bold]{chars[index]['unit'][0]}[/bold]{chars[index]['unit'][1]}[/blue], Week {chars[index]['week']}")
                 print()
             action = multipleChoice("What would you like to do?", ["Next", "Previous", "Hide Answer" if show else "Show Answer", "Unmark for Review" if chars[index]['char'] in data["review"] else "Mark for Review", "Edit", "Exit"])
 
@@ -237,7 +243,9 @@ while True:
                 print()
                 console.print(', '.join([p for p in char_data['pinyin']]))
                 console.print("[default]" + ', '.join(char_data['definitions']))
-                console.print(', '.join(char_data['words']))
+                if char_data['words']:
+                    console.print(', '.join(char_data['words']))
+                console.print(f"Unit [blue][bold]{unit[0]}[/bold]{unit[1]}[/blue], Week {char_data['week']}")
                 print()
                 action = multipleChoice("What would you like to do?", ["Edit", "Unmark for Review" if char in data["review"] else "Mark for Review", "Exit"])
                 
